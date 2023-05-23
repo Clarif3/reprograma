@@ -53,12 +53,12 @@ h3{
     justify-content: center;
     line-height: 1em;
     margin-left: 100px;
-    margin-top: 20px;
+    margin-top: 105px;
 }
 
 .sobre-descricao{
     width: 40%;
-    text-align: center;
+    text-align: justify;
 }
 
 .trecho{
