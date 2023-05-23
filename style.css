@@ -25,7 +25,7 @@ h3{
 }
 
 .banner{
-    background-image: url("../img/banner-bg.png");
+    background-image: url(../img/banner-bg.png);
     background-size: cover;
     height: 100vh;
     color: white;
