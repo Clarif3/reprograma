@@ -25,8 +25,8 @@ h3{
 }
 
 .banner{
-    background-image: url(https://github.com/Clarif3/reprograma/blob/main/img/banner.png);
-    background-size: contain;
+    background-image: uri("https://github.com/Clarif3/reprograma/blob/main/img/banner.png");
+    background-size: conver;
     height: 100vh;
     color: white;
     text-align: center;
